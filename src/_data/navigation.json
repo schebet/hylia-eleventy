@@ -11,12 +11,7 @@
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
-    },
-    {
-      "url": "/o nešku/index.html",
+      "url": "/index.html",
       "text": "sve o nešku"
     }
   ]
